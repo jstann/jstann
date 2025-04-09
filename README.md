@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on different coding projects using different languages.
-- 📫 How to reach me through my email @jasminetann22@gmail.com
+- 📫 How to reach me through my email @jasminestann@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
